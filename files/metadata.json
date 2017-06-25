@@ -1,0 +1,7 @@
+{
+    "dangerous": true, 
+    "uuid": "web-service-launcher@luiapi", 
+    "description": "A Menu for PHP/MySQL Web Developers", 
+    "name": "Web Service Launcher", 
+    "icon": "network-server-symbolic"
+}

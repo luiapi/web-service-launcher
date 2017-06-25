@@ -1,0 +1,12 @@
+{
+  "header" : {
+    "type" : "header",
+    "description": "Set avaible services"
+  },
+  "services" : {
+    "type" : "entry",
+    "default": "Apache Server:apache2,Nginx Server:nginx,Mysql Server:mysql,PHP-FPM Service:php-fpm",
+    "description" : "Set services",
+    "tooltip" : "{service 1 label}:{service1 name},separator,{service 2 label}:{service2 name}"
+  }
+}
